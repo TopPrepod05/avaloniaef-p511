@@ -1,4 +1,4 @@
-﻿ # Avalonia EntityFramework SQLite Project
+﻿ # Avalonia EntityFramework SQL SERVER Project
 
  ## Как склонировать проект?
 
